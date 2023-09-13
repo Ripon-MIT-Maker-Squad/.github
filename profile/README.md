@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-Notion Documentation: 
+#Notion Documentation: 
 https://www.notion.so/Pool-Guard-thingy-8ccf6f3a7d114042ba666572f8f04cd0
 
-Backend IP:
+#Backend IP:
 129.146.23.77:1025
--->
