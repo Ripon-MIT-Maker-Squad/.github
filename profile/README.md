@@ -1,4 +1,4 @@
-## Hi there 👋
+## PROJECT STUFF
 
 #Notion Documentation: 
 https://www.notion.so/Pool-Guard-thingy-8ccf6f3a7d114042ba666572f8f04cd0
